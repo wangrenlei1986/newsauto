@@ -1,0 +1,3 @@
+-keep class androidx.room.** { *; }
+-keep class kotlinx.coroutines.** { *; }
+-dontwarn org.jetbrains.annotations.**
