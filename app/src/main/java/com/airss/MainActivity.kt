@@ -1,8 +1,6 @@
 package com.airss
 
 import android.os.Bundle
-import androidx.activity.ComponentActivity
-import androidx.activity.compose.setContent
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.commit
 import com.airss.ui.home.HomeFragment
