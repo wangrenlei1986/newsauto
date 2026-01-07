@@ -66,7 +66,6 @@ dependencies {
     implementation("com.squareup.okhttp3:okhttp:4.11.0")
 
     // XML parsing (placeholder)
-    implementation("org.jetbrains.kotlinx:kotlinx-serialization-xml:0.2.0")
 
     // ExoPlayer (optional if playing files)
     implementation("androidx.media3:media3-exoplayer:1.3.1")
